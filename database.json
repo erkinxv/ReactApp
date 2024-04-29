@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "name": "NITRO 5 AN515-57",
+      "brand": "ACER",
+      "price": "95000",
+      "description": "15,6″ - 39,62 см\nПроцессор \tIntel® Core™ i5\nОперационная система \tLinux\nОбъем оперативной памяти \t8 GB\nТип жесткого диска \tSSD\nОбъем накопителя \t512 GB\nВидеоадаптер \tnVidia GeForce RTX\nЧипсет видеоадаптера \t3050\nОбъем памяти видеоадаптера \t4 GB",
+      "image": "https://avatars.mds.yandex.net/get-mpic/5332261/img_id5283114685907010754.png/orig",
+      "color": "black",
+      "id": "1"
+    },
+    {
+      "name": "PREDATOR TRITON 300S",
+      "brand": "ACER",
+      "price": 110990,
+      "description": "Диагональ \t14″ - 35,56 см\nПроцессор \tIntel® Core™ i5\nОперационная система \tDOS\nОбъем оперативной памяти \t8 GB\nТип жесткого диска \tSSD\nОбъем накопителя \t512 GB\nВидеоадаптер \tnVidia GeForce RTX\nЧипсет видеоадаптера \t3060\nОбъем памяти видеоадаптера \t6 GB",
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_62_2229_0_1_320.webp",
+      "color": "gray",
+      "id": "2"
+    },
+    {
+      "name": "ZENBOOK 14 UX425J I385SUW",
+      "brand": "ASUS",
+      "price": 67990,
+      "description": "Диагональ \t14″ - 35,56 см\nПроцессор \tIntel® Core™ i3\nОперационная система \tWindows 10 Home\nОбъем оперативной памяти \t8 GB\nТип жесткого диска \tSSD\nОбъем накопителя \t512 GB\nВидеоадаптер \tIntel UHD Graphics",
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_62_2285_0_6_320.webp",
+      "color": "black",
+      "id": "4"
+    },
+    {
+      "name": "TUF GAMING F15 FX506H",
+      "brand": "ASUS",
+      "price": 99990,
+      "description": "\nДиагональ \t15,6″ - 39,62 см\nПроцессор \tIntel® Core™ i5\nОперационная система \tDOS\nОбъем оперативной памяти \t16 GB\nТип жесткого диска \tSSD\nОбъем накопителя \t512 GB\nВидеоадаптер \tnVidia GeForce RTX\nЧипсет видеоадаптера \t3050\nОбъем памяти видеоадаптера \t4 GB",
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_62_2366_0_1_320.webp",
+      "color": "black",
+      "id": "5"
+    },
+    {
+      "name": "SWIFT 3 SF314-43",
+      "brand": "ACER",
+      "price": 73990,
+      "description": "\nДиагональ \t14″ - 35,56 см\nПроцессор \tAMD® Ryzen™ 7\nОперационная система \tLinux\nОбъем оперативной памяти \t16 GB\nТип жесткого диска \tSSD\nОбъем накопителя \t512 GB\nВидеоадаптер \tAMD Radeon Graphics\nОбъем памяти видеоадаптера \tSMA (выделяется из операт. памяти)\n",
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_62_2350_5_1_320.webp",
+      "color": "white",
+      "id": "6"
+    },
+    {
+      "id": "6016",
+      "name": "HP",
+      "brand": "xz",
+      "description": "ну типа он крутой",
+      "price": "148800",
+      "image": "data:image/jpeg;base64,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",
+      "color": "blue"
+    },
+    {
+      "id": "6f12",
+      "name": "qwdqwd",
+      "brand": "qwdwdq",
+      "description": "wdqdqw",
+      "price": "2121",
+      "image": "dwqdqw",
+      "color": "red"
+    },
+    {
+      "id": "9bc3",
+      "name": "qwdqwd",
+      "brand": "qwdwdq",
+      "description": "wdqdqw",
+      "price": "2121",
+      "image": "dwqdqw",
+      "color": "red"
+    }
+  ]
+}
